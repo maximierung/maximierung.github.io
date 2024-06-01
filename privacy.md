@@ -1,6 +1,7 @@
 ## This is the privacy policy for the "Squad Busters Bot" Discord bot (with the ID: 1234484810433560628).
 
 This page was last updated June, 1st, 2024.
+
 The "Squad Busters Bot" Discord bot (with the ID: 1234484810433560628) is referred to in this privacy policy as "Squad Busters Bot" and/or app, application, bot or other commonly used words for applications based on the Discord.com chat service.
 
 # Conditions:
